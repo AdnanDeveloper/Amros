@@ -882,10 +882,10 @@ body {
 }
 
 @media (max-width: 991px) {
-  section {
+/*   section {
     padding-top: 50px;
     padding-bottom: 50px;
-  }
+  } */
   
   .row {
     flex-direction: column;
