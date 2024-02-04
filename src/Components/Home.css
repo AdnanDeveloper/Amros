@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+body {
+    overflow-x: hidden;  
+  }
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'poppins', sans-serif;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.success_text {
+  display: none;
+  text-align: center;
+  font-weight: bold;
+}
+.success_text.show {
+  display: block;
+}
