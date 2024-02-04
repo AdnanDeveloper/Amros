@@ -86,6 +86,7 @@ body {
     background-image: url(/img/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 5px;
   }
   
   .left-sec {
@@ -1893,7 +1894,7 @@ body {
   
     .img-banner {
       width: 85%;
-      margin-top: 35px;
+      margin-top: 45px;
       z-index: 1;
       margin-left: 0px;
     }
