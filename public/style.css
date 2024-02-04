@@ -1893,7 +1893,7 @@ body {
     }
   
     .img-banner {
-      width: 85%;
+      width: 90%;
       margin-top: 45px;
       z-index: 1;
       margin-left: 0px;
@@ -1920,27 +1920,30 @@ body {
       font-size: 120px;
       position: absolute;
       font-family: 'Inter', sans-serif;
-      margin: -41px;
-      right: 23%;
+/*       margin: -41px; */
+      right: 37%;
       color: #e1e1e1;
+      margin-top: -118px;
     }
   
     .discuss-h2-2 {
       font-size: 120px;
       position: absolute;
       font-family: 'Inter', sans-serif;
-      margin: -41px;
-      right: 23%;
+/*       margin: -41px; */
+      right: 37%;
       color: #e1e1e1;
+      margin-top: -118px;
     }
   
     .discuss-h2-3 {
       font-size: 120px;
       position: absolute;
       font-family: 'Inter', sans-serif;
-      margin: -41px;
-      right: 23%;
+/*       margin: -41px; */
+      right: 37%;
       color: #e1e1e1;
+      margin-top: -118px;
     }
   
     /*  */
@@ -2042,9 +2045,10 @@ body {
       border-radius: 50%;
       opacity: 0.4;
       position: absolute;
-      top: 70%;
+      top: 75%;
       right: 15%;
       z-index: 5;
+      
     }
   
     .ring-2 {
@@ -2054,9 +2058,10 @@ body {
       border-radius: 50%;
       opacity: 0.4;
       position: absolute;
-      bottom: 17%;
+      bottom: 7%;
       right: 85%;
       z-index: 5;
+      margin-top: 40px;
     }
   
     .slide-top-animate {
