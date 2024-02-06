@@ -3,14 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Analytics } from '@vercel/analytics/react';
+import ReactGA from "react-ga4";
 
+ReactGA.initialize("G-8WS6G9KHYT");
+ReactGA.send({ hitType: "pageview", page: "/my-path", title: "Custom Title" });
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <Analytics />
   </React.StrictMode>
 );
 
