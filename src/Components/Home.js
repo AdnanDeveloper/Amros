@@ -233,7 +233,7 @@ function Home() {
                         <div className='col-lg-7 md-7 sm-12'>
                             <h2 className='adnan mt-4'>About Me</h2>
                             <p className='mt-2'>Adnan Moriswala, a dedicated freelance web developer in Mumbai, is the creative force behind the esteemed brand Amros. As a freelance web developer in Mumbai, I have expertise to create dynamic and visually appealing websites, ensuring that businesses establish a strong online presence.<br></br>
-                                Operating under the brand name Amros, I every project with enthusiasm and my focus on delivering projects on time speaks volumes about my professionalism and reliability.</p>
+                                Operating under the brand name Amros, I build every project with enthusiasm and my focus on delivering projects on time speaks volumes about my professionalism and reliability.</p>
                             <div className="tab" data-aos="fade-up" data-aos-duration="1300" data-aos-delay="70" data-aos-easing="ease-in-out-quart" data-aos-once="true">
                                 <button
                                     className={`tablinks ${activetab === 'Main Skills' ? 'active' : ''}`}
