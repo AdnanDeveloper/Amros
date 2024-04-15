@@ -516,7 +516,7 @@ function Home() {
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-5 md-4 sm-12 sec-3-col">
-                            <h2 class="sec-3-h2">Best Website Developer In Mumbai</h2>
+                            <h2 class="sec-3-h2">Freelance Website Developer In Mumbai</h2>
                         </div>
                         <div class="col-lg-3 md-4 sm-12" >
                             <div class="img" style={{ top: `${imgPosition.top}px`, left: `${imgPosition.left}px` }}>
