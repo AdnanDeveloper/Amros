@@ -556,251 +556,251 @@ function Home() {
 
 
             {/* pricing */}
+{/*  
+            <section>
+                <div class="container pricing-sec" id='pricing'>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-4 md-4 sm-12 price-col price-col-1" data-aos="fade-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
+                            <div class="box-price-1">
+                                <h2 class="price-head-1">Static Website</h2>
+                                <span class="price-para-1"> starts</span>
+                                <span class="prices">₹13k</span>
+                                <p class="note">Note: Pricing depends on project requirements</p>
+                                <div class="border-bottom"></div>
+                                <table>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Upto 10 Pages (Or single Page Website)</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Content Placement</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">1 Contact Us Form</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">100% Mobile Friendly</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Click To Chat Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Social Media Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Technical Support (3 Months)</span>
+                                        </td>
+                                    </tr>
+                                </table>
 
-            // <section>
-            //     <div class="container pricing-sec" id='pricing'>
-            //         <div class="row justify-content-center">
-            //             <div class="col-lg-4 md-4 sm-12 price-col price-col-1" data-aos="fade-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
-            //                 <div class="box-price-1">
-            //                     <h2 class="price-head-1">Static Website</h2>
-            //                     <span class="price-para-1"> starts</span>
-            //                     <span class="prices">₹13k</span>
-            //                     <p class="note">Note: Pricing depends on project requirements</p>
-            //                     <div class="border-bottom"></div>
-            //                     <table>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Upto 10 Pages (Or single Page Website)</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Content Placement</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">1 Contact Us Form</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">100% Mobile Friendly</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Click To Chat Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Social Media Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Technical Support (3 Months)</span>
-            //                             </td>
-            //                         </tr>
-            //                     </table>
+                                <button type="button" class="btn btn1"><a href='https://wa.link/35sxde' target='_blank' className='serv-link'> Get This Package</a></button>
+                            </div>
+                        </div>
 
-            //                     <button type="button" class="btn btn1"><a href='https://wa.link/35sxde' target='_blank' className='serv-link'> Get This Package</a></button>
-            //                 </div>
-            //             </div>
-
-            //             <div class="col-lg-4 md-4 sm-12 mt-5" data-aos="zoom-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
-            //                 <h2 class="price-popular mt-1">Most Popular</h2>
-            //                 <div class="box-price-2">
-            //                     <h2 class="price-head-2">E-Commerce Website</h2>
-            //                     <span class="price-para-1"> starts</span>
-            //                     <span class="prices">₹30k</span>
-            //                     <p class="note">Note: Pricing depends on project requirements</p>
-            //                     <div class="border-bottom"></div>
-            //                     <table>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Upto 10 Pages</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Payment Gateway Integration</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">20 Products Upload</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Multi Language Webpages</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">1 Contact Us Form</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Content Placement</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">100% Mobile Friendly</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Click To Chat Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Social Media Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Business Email Id</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Technical Support (6 Months)</span>
-            //                             </td>
-            //                         </tr>
-            //                     </table>
-            //                     <button type="button" class="btn btn1 btn2"><a href='https://wa.link/6vor5w' target='_blank' className='serv-link'> Get This Package</a></button>
-            //                 </div>
-            //             </div>
+                        <div class="col-lg-4 md-4 sm-12 mt-5" data-aos="zoom-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
+                            <h2 class="price-popular mt-1">Most Popular</h2>
+                            <div class="box-price-2">
+                                <h2 class="price-head-2">E-Commerce Website</h2>
+                                <span class="price-para-1"> starts</span>
+                                <span class="prices">₹30k</span>
+                                <p class="note">Note: Pricing depends on project requirements</p>
+                                <div class="border-bottom"></div>
+                                <table>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Upto 10 Pages</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Payment Gateway Integration</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">20 Products Upload</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Multi Language Webpages</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">1 Contact Us Form</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Content Placement</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">100% Mobile Friendly</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Click To Chat Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Social Media Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Business Email Id</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Technical Support (6 Months)</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <button type="button" class="btn btn1 btn2"><a href='https://wa.link/6vor5w' target='_blank' className='serv-link'> Get This Package</a></button>
+                            </div>
+                        </div>
 
 
-            //             <div class="col-lg-4 md-4 sm-12 price-col price-col-1 mt-5" data-aos="fade-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
-            //                 <div class="box-price-3">
-            //                     <h2 class="price-head-1">Business Website</h2>
-            //                     <span class="price-para-1"> starts</span>
-            //                     <span class="prices">₹45k</span>
-            //                     <p class="note">Note: Pricing depends on project requirements</p>
-            //                     <div class="border-bottom"></div>
-            //                     <table>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Upto 100+ Pages</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Multi Language Webpages</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para">Keywords Research</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para"> Image Optimization</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td><span class="col-8 proj-para"> Url's / Headings Optimization</span></td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">100% Mobile Friendly</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Click To Chat Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Social Media Integration</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Business Email Id</span>
-            //                             </td>
-            //                         </tr>
-            //                         <tr class="table-tr">
-            //                             <td>
-            //                                 <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
-            //                             </td>
-            //                             <td>
-            //                                 <span class="col-8 proj-para">Technical Support (6 Months)</span>
-            //                             </td>
-            //                         </tr>
-            //                     </table>
-            //                     <button type="button" class="btn btn1"><a href='https://wa.link/3w9ykp' target='_blank' className='serv-link'> Get This Package</a></button>
-            //                 </div>
-            //             </div>
-            //         </div>
-            //     </div>
-            // </section>
-
+                        <div class="col-lg-4 md-4 sm-12 price-col price-col-1 mt-5" data-aos="fade-in" data-aos-duration="1300" data-aos-easing="ease-in-out-quart" data-aos-once="true">
+                            <div class="box-price-3">
+                                <h2 class="price-head-1">Business Website</h2>
+                                <span class="price-para-1"> starts</span>
+                                <span class="prices">₹45k</span>
+                                <p class="note">Note: Pricing depends on project requirements</p>
+                                <div class="border-bottom"></div>
+                                <table>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Upto 100+ Pages</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Multi Language Webpages</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para">Keywords Research</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para"> Image Optimization</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td><span class="col-8 proj-para"> Url's / Headings Optimization</span></td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">100% Mobile Friendly</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Click To Chat Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Social Media Integration</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Business Email Id</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="table-tr">
+                                        <td>
+                                            <span class="col-4"><i class="fa-regular fa-circle-check"></i></span>
+                                        </td>
+                                        <td>
+                                            <span class="col-8 proj-para">Technical Support (6 Months)</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <button type="button" class="btn btn1"><a href='https://wa.link/3w9ykp' target='_blank' className='serv-link'> Get This Package</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+*/ }
             {/* Discuss Develop Deliver */}
             <section>
                 <div class="container mt-5">
