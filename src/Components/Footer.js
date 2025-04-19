@@ -6,7 +6,7 @@ class Footer extends Component{
             <div>
                 <section className="footer-sec">
                 <div className="container footer">
-                    <p>Copyright © 2024 Amros | All Rights Reserved</p>
+                    <p>Copyright © 2025 Amros | All Rights Reserved</p>
                 </div>
                 </section>
             </div>
